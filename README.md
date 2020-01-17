@@ -330,7 +330,7 @@ Shape](https://www.hakko.com/english/tip_selection/type.html) guide.
 
 I have three pairs of good tweezers made by Ideal-Tek in Switzerland.
 I love them. Chose them based on a [comment with pictures on
-eevblog](https://www.eevblog.com/forum/reviews/best-tweezers-etc/).
+eevblog](https://www.eevblog.com/forum/reviews/best-tweezers-etc/msg1194495/#msg1194495).
 
 Specifically I have the SM-108A as default choice, the fine TL 5-TA
 for precise work like picking out cotton fibers from between chip
