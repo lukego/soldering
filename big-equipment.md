@@ -52,3 +52,10 @@ I value the peace of mind to know that I'm not damaging chips with
 static electricity when I work with them. I would hate to always live
 with doubts about this while I am troubleshooting hard problems.
 
+### Fume extractor
+
+I have a cheap fume extractor from Aliexpress similar to [this
+one](https://www.aliexpress.com/item/33015679872.html). This sucks the
+hazardous fumes from hot flux into a filter. I especially use it when
+working with hot air and lots of flux.
+
