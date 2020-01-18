@@ -12,9 +12,7 @@ will learn to design PCBs, then I will learn to program FPGAs.
   - [Big equipment](big-equipment.md) like soldering irons and microscopes.
   - [Small equipment](small-equipment.md) like tips and tweezers.
   - [Consumables](consumables.md) like solder and flux.
-  - [Not bought](not-bought.md) equipment that is interesting but I
-    don't have for various reasons (don't need it yet, or too
-    expensive, or too cheap.)
+  - [Not bought](not-bought.md) equipment that has caught my eye but I don't have.
 - [Shops](shops.md) where I order what I need for delivery to Sweden.
 
 - Luke Gorrie

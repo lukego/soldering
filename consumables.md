@@ -2,14 +2,14 @@
 
 ### Solder
 
-I have a 1lb spool of Kester 0.4mm (0.015") SN63PB37 leaded solder
-from Amazon US. This is name-brand solder recommended by the experts.
-I expect this spool to last many years.
+I have a 450g (1lb) spool of Kester 0.4mm (0.015") SN63PB37 leaded
+solder from Amazon US. Cost about $35. This is name-brand solder
+recommended by the experts. I expect this spool to last many years.
 
-I have since seen the [SDG
-Electronics](https://www.youtube.com/watch?v=zZ9wxs6xuYU) comparison
-of zillions of different kinds of solder and I know that similarly
-excellent solder is avaliable much cheaper too.
+I have since seen the [SDG Electronics solder
+comparison](https://www.youtube.com/watch?v=zZ9wxs6xuYU) video
+comparing lots of different brands of solder and it seems like there
+are excellent cheap ones but you have to choose carefully.
 
 I also have a couple of spools of ChipQuik lead-free solder in
 different thicknesses but I have switched to leaded as my default
@@ -21,29 +21,41 @@ My default flux is from a 75g tub of Amtech NC-559-V2-TF tacky flux
 from Amazon.com. This is what Louis Rossmann calls "the good shit" and
 has a cult following who especially love it for rework. It has a gooey
 consistency and seems to survive some tens of seconds under high heat
-from a hot air rework station.
+from a hot air rework station. I bought a bag of miscellaneous
+syringes and use one with a large nozzle as my dispenser (or just goop
+it straight from the tub on something like a match stick.)
 
-I have also been using ChipQuik flux, liquid from a flux pen and gel
-from a tube, but I have switched to Amtech as my default. I bought a
-bag of miscellaneous syringes and use one with a large tip as my
-dispenser.
+I have since seen the [SDG Electronics flux
+comparison](https://www.youtube.com/watch?v=iKDAmY9Rdag) and it seems
+like there are some excellent cheaper ones available too. I'll
+probably try a couple of these when the Amtech starts running low.
+
+I also have a ChipQuik flux pen that I use occasionally. This is a
+liquid flux. Seems ideal if you want to use only a little flux but
+lately I prefer to slop on the tacky stuff.
 
 ### Isopropyl alcohol
 
-I use 99.5% isopropyl alcohol (aka isopropynlol, aka 2-propynol) to
+I use 99.5% isopropyl alcohol (aka isopropanol, aka 2-propanol) to
 clean away flux residue after soldering. I apply it using a tooth
-brush.
+brush. I bought a 1L bottle at a local shop and use that to top up a
+more convenient little bottle.
 
 ### Kimwipes
 
-I am currently waiting on my first delivery of Kimwipes from
-Amazon.de. These are paper wipes that don't leave threads behind.
-Meanwhile I'm using Q-tips which do require care to avoid leaving a
-mess of cotton fibers.
+I have just started using Kimwipes to soak up the dirty alcohol when
+cleaning PCBs. These are basically tissues that don't leave fibers
+behind. I emulate John Gammell's technique of putting the wipe over
+the alcohol and then rubbing it with a brush.
+
+I had used Q-tips but these often left cotton fibers between the legs
+of components when I cleaned them during rework.
 
 ### ChipQuik desoldering alloy
 
-I have some ChipQuik desoldering alloy. It's good at what it does but I usually use hot air these days. 
+I have some ChipQuik desoldering alloy for removing non-BGA chips with
+exposed legs. It works great but I don't have much use for it since I
+got the hot air rework gun.
 
 ### Solder balls
 
