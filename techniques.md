@@ -5,7 +5,7 @@
 ### What I do
 
 - I use 63/37 leaded solder.
-- I use the smallest tool that will get the job done. There's a [huge difference in soldering iron size](https://twitter.com/lukego/status/1296358634776076289) and smaller ones are much more precise.
+- I use the smallest tool that will get the job done. There's a [huge difference in soldering iron size](https://twitter.com/lukego/status/1296358634776076289) and smaller ones are much more precise. However, smaller tools have less heating capacity, and a 7W nano iron will struggle even with larger resistors.
 - I solder at 280C temperature with JBC equipment and 315C with Hakko/Ersa equipment. Those are the lowest temperatures where I'm able to get consistently good results.
 - I use copious amounts of Amtech tacky flux ("Louis Rossmann style.") Always. Good flux is like magic.
 - I solder "small" (0603/0402/0201/01005) passives using my nano iron. I do this in batches: tin first pads, solder parts on one side, solder second side. Examples: [0402](https://twitter.com/lukego/status/1295018631487787008) and [01005](https://twitter.com/lukego/status/1297480266429210625).
