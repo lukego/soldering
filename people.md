@@ -1,6 +1,14 @@
 # People
 
-Great people to learn from on the internet, mostly YouTube.
+Great people to learn from on the internet!
+
+## Twitter
+
+Electronics twitter is a great community. People are really positive
+and supportive. I share pretty much everything that I'm doing there
+and it gives me a sense of community. I am very grateful for all the
+people there who are sharing their expertise and experience with me.
+Thank you!
 
 ## Louis Rossmann (USA)
 
@@ -14,10 +22,19 @@ interested in doing electronics by hand -- I had no idea this was
 possible. His videos are often a bit long and rambling and that's just
 his style.
 
-I have to take Louis' equipment reviews with a grain of salt. His
-equipment is revenue-generating for his repair business so he's not a
-major bargain hunter, he is fairly loyal to a few major brands, and he
-is reselling the equipment that he recommends so he is not impartial.
+I like Louis. I especially appreciate that he is business-oriented. He
+judges tools and techniques based on how much they help him do his job
+and generate revenue. He spends money deliberately. He won't pay
+double for a luxury brand that's only 10% better but he will drop
+$7500 on a BGA rework machine if that means he can reliably do
+valuable repairs e.g. replacing GPUs on Macbook Pros.
+
+I take Louis' specific equipment recommendations with a grain of salt.
+He tries a few things, he uses what he happens to like, and he picks a
+recommendation to sell from his store. He doesn't have an interest in
+doing a more complete survey of alternatives and his equipment reviews
+will be biased by his current mood or his interaction with a sales
+rep. His reviews are excellent sources of information though.
 
 ## Dave Jones (AUS) aka EEVblog
 
@@ -26,23 +43,26 @@ YouTube](https://www.youtube.com/user/EEVblog) has posted more than a
 thousand videos. He is basically the Steve Irwin of electronics. He
 covers topics like learning to solder, reviewing both high-end and
 low-end gear, electrical engineering theory, electronics myth-busting,
-equipment tear-downs, etc. Dave is a top bloke.
+equipment tear-downs, etc. He works hard and is generous with his
+knowledge and experience.
 
-I am cautious about Dave's equipment recommendations too. He is a
-professional, he buys some really expensive gear, he tends towards
-established brands based on his long experience with them. He does
-also review up-and-coming brands and even total junk though too.
+I don't really follow Dave anymore. He seems most comfortable on the
+analog side of things: beefy power supplies, big capacitors, high
+wattage soldering irons, etc. I'm much more interested in
+micro-soldering of tiny parts and their digital relationships.
 
 ## Steve Gardener (UK) aka SDG Electronics
 
 [Steve Gardener as SDG Electronics on
 YouTube](https://www.youtube.com/channel/UCMiC9bSMux7i2Ds6sIqDaFg)
-probably does the best equipment reviews for newbies. He is a
-professional electrical engineer but he is buying and reviewing
-equipment for his own personal lab and hobby projects. He knows
-quality when he sees it, he probably uses much more expensive stuff at
-work, but he is focused on finding low-cost good-quality bargains on
-Banggood and Aliexpress.
+buys and reviews soldering equipment. He mostly buys cheap bargains
+from Banggood and opens them up and reviews important aspects like
+their electrical safety. I enjoy his reviews.
+
+Having said that, he seems to buy stuff more-or-less at random, based
+on whatever is going cheap. I don't think that's a sound strategy and
+I haven't been satisfied with some of the stuff I bought following his
+positive reviews.
 
 ## John Gammell (USA)
 
@@ -50,6 +70,13 @@ Banggood and Aliexpress.
 grand master soldering instructor. He has a bunch of minute-or-two
 YouTube videos each demonstrating one soldering technique in a
 masterful way.
+
+My initial reaction to John Gammell's gorgeous work has been simply
+"wow." He is definitely showing mastery of the techniques. Having said
+that, the practical work that I'm doing always ends up being on much
+smaller parts and in awkward tight spaces. He shows you how to drive
+safely on the highway but that's different to navigating the maze of
+one-way streets in a European capital...
 
 ## Jessa Jones (USA)
 
@@ -62,8 +89,15 @@ watched many of her videos yet.
 ## EEVBlog community forum
 
 [The EEVblog community forum](https://www.eevblog.com/forum/index.php)
-is a treasure trove of information. There are literally millions of
-posts about all kinds of electronics topics. Amazingly skilled and
-experienced people. Great place to search for second opinions and
-different takes on how to solve a problem.
+is a treasure trove of information. There are over a million posts in
+the discussion forum. The topics mostly reflect Dave Jones' own skills
+and interests and opinions: he has attracted a large group of
+like-minded people.
+
+I've gradually realized that there's a bit of a mysogynistic vibe
+there. Dave and the moderators like to indulge in anti-SJW rants,
+pulling down the women who are succeeding in electronics, and
+indulging in James Damore type diatribes. This is a shame. In other
+parts of the electronics world I see a lot of leadership from women,
+trans, and queer people.
 
