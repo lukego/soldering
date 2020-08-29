@@ -1,74 +1,54 @@
-## Consumables
+## Gear I don't own (but have been tempted by)
 
-### Solder
+[Imdes Vapor Phase
+Oven](https://eleshop.eu/vapour-phase-jumbo-condens-it.html) seems
+like the entry-level commercial reflow oven for working with large
+BGAs. I was tempted by the Mini model but its price increased a lot
+recently (I guess because the product has matured.) Maybe the Jumbo
+would be a better option now. I don't feel an immediate need for one
+of these but I'm keeping it in mind for the future.
 
-I have a 1lb spool of Kester 0.4mm (0.015") SN63PB37 leaded solder
-from Amazon US. This is name-brand solder recommended by the experts.
-I expect this spool to last many years.
+[Imdes desoldering
+jig](https://eleshop.eu/imdes-vapor-phase-imd-dss1.html). This would
+be handy for desoldering big FPGAs. However, the price is astronomical
+so I'm thinking about how to DIY my own.
 
-I have since seen the [SDG
-Electronics](https://www.youtube.com/watch?v=zZ9wxs6xuYU) comparison
-of zillions of different kinds of solder and I know that similarly
-excellent solder is avaliable much cheaper too.
+[Metcal
+MX-5200](http://www.okinternational.com/metcal/english/globalnavigation/products/hand-soldering-systems/systems/dual-port-simultaneous/mx-5200-soldering-rework-and-desoldering)
+or [Hakko
+FX-100](http://www.okinternational.com/metcal/english/globalnavigation/products/hand-soldering-systems/systems/dual-port-simultaneous/mx-5200-soldering-rework-and-desoldering)
+induction-heated soldering station. I really don't need either of
+these but I am more than a little curious about how they perform. I
+nearly took this route instead of JBC but I preferred JBC's "Batman"
+style with an extensive range of specialized tools e.g. nano tweezers.
 
-I also have a couple of spools of ChipQuik lead-free solder in
-different thicknesses but I have switched to leaded as my default
-choice based on advice from YouTubers.
+4K camera with large sensor for microscope port. I would like 4K so
+that I can crop and zoom down to 1080p. I would also like a large
+sensor because it is challenging getting enough light for good
+exposure through my microscope's camera port. Maybe someone can
+suggest a good model?
 
-### Flux
+[JBC SRWS-S rework
+system](https://www.jbctools.com/srws-s-smd-rework-system-product-1454.html)
+is the shiniest thing that I know. It's an integrated rework system
+built around an IR preheater and a hot air gun and mechanical
+supports. The special thing is that a central controller makes the
+heaters work in concert e.g. control the heat sources to bring a
+specific component to a specific temperature following a specific
+thermal ramp up profile, or to prevent another component from
+exceeding a certain temperature, etc. HOWEVER, it's really expensive
+(~$3500), and it might even be a bit /too/ automated for my taste.
 
-My default flux is from a 75g tub of Amtech NC-559-V2-TF tacky flux
-from Amazon.com. This is what Louis Rossmann calls "the good shit" and
-has a cult following who especially love it for rework. It has a gooey
-consistency and seems to survive some tens of seconds under high heat
-from a hot air rework station.
+(The JBC automated reflow system might be the tool you would want to
+(say) replace the CPUs on a hundred laptops in a perfectly controlled
+and consistent way. Since I am making prototypes it seems to be more
+fun and crafty to manually apply heat and track temperatures with
+thermocouples. Still, if money and bench space were no object...)
 
-I have also been using ChipQuik flux, liquid from a flux pen and gel
-from a tube, but I have switched to Amtech as my default. I bought a
-bag of miscellaneous syringes and use one with a large tip as my
-dispenser.
-
-### Isopropyl alcohol
-
-I use 99.5% isopropyl alcohol (aka isopropynlol, aka 2-propynol) to
-clean away flux residue after soldering. I apply it using a tooth
-brush.
-
-### Kimwipes
-
-I am currently waiting on my first delivery of Kimwipes from
-Amazon.de. These are paper wipes that don't leave threads behind.
-Meanwhile I'm using Q-tips which do require care to avoid leaving a
-mess of cotton fibers.
-
-### ChipQuik desoldering alloy
-
-I have some ChipQuik desoldering alloy. It's good at what it does but I usually use hot air these days. 
-
-### Solder balls
-
-I have some solder balls in various sizes (for reballing BGA chips) from Aliexpress:
-
-https://www.aliexpress.com/item/845134998.html?spm=a2g0o.productlist.0.0.2e8b22f45VDY0E&algo_pvid=4b62496e-b5a9-4d90-a1f2-c05562991df6&algo_expid=4b62496e-b5a9-4d90-a1f2-c05562991df6-1&btsid=804cc17e-29f4-45d4-9d24-7f288b5af307&ws_ab_test=searchweb0_0,searchweb201602_2,searchweb201603_53
-
-I haven't tried them yet but I am really looking forward to it!
-
-### Solder paste
-
-I have some Amtech solder paste from Amazon.com. I have this stored in
-my fridge at the moment and I haven't used it yet. I'm concerned that
-it spend some time (days?) in my mailbox at close to room temperature
-and might be spoiled.
-
-## Gear I don't own
-### I was tempted but chose something else
-#### All-in-one soldering iron + rework station + preheater
-### I don't need it yet
-#### Hot tweezers
-#### Reflow oven
-## Super expensive fantasy stuff that I'll probably never buy
-### Mantis microscope
-### Metcal soldering station
-### X-ray machine
-
+[X-Ray Machine](https://www.ebay.com/i/322593819555) for inspecting
+BGAs. I don't think that I truly want one of these :-). The safety
+aspect is a major concern even before picking the cheapest model from
+eBay. However, it is intriguing that X-Ray machines are selling for
+hundreds of dollars... I'll probably try asking the local dental
+surgery nicely if they can take occasional pictures for me.
 
