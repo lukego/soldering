@@ -8,13 +8,12 @@ My favourite tips lately are:
   (aka mini-wave) or
   [hoof](https://www.jbctools.com/cartridges/C245102%20(datasheet)_Completa.gif)
   (aka bevel) for drag-soldering. These are both especially good for
-  drag soldering because you get a satisfying blob of solder pull
+  drag soldering because you get a satisfying blob of solder to pull
   across the pins. They are also surprisingly good for tight fiddly
   work because they only conduct heat on the "cut" part of the tip,
-  meaning you won't accidentally melt stuff with the other side of the
-  tip (e.g. bumping a passive and picking it up onto the iron as often
-  happens to me with a chisel tip.) Note: Hakko makes hoof tips in [CF
-  and
+  meaning you won't accidentally melt stuff with the back side (e.g.
+  bumping a passive and picking it up onto the iron as often happens
+  to me with a chisel tip.) Note: Hakko makes hoof tips in [CF and
   BCF](https://www.hakko.com/english/maintenance/topic_difference.html)
   style and the BCF is the one that only transfers heat on the cut
   surface (CF also transfers heat on the back.)
@@ -27,7 +26,7 @@ My favourite tips lately are:
 
 I used to use chisel tips mostly. I think that's a good choice if you
 have one iron and can't change tips easily. If you could only have one
-tip them a fine chisel (e.g. 0.8mm) might be a good choice. If you can
+tip then a fine chisel (e.g. 0.8mm) might be a good choice. If you can
 use several tips then I'd prefer more specialized ones though.
 
 People say that you should match the size of your tip to the part you
