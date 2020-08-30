@@ -92,12 +92,12 @@ watched many of her videos yet.
 is a treasure trove of information. There are over a million posts in
 the discussion forum. The topics mostly reflect Dave Jones' own skills
 and interests and opinions: he has attracted a large group of
-like-minded people.
+like-minded people who are into advanced repairs and DIY.
 
-I've gradually realized that there's a bit of a mysogynistic vibe
-there. Dave and the moderators like to indulge in anti-SJW rants,
-pulling down the women who are succeeding in electronics, and
-indulging in James Damore type diatribes. This is a shame. In other
-parts of the electronics world I see a lot of leadership from women,
-trans, and queer people.
+I have mixed feelings about the EEVblog community. There seems to be a
+vibe that repels the prominent women, trans, and gay people in
+electronics from participating. Dave and the forum moderators seem to
+indulge in a bit of vitriol towards "SJWs" and to assume that all
+engineers think the same way that they do. I wish they would change
+tone and find a way to make more people feel welcome.
 
