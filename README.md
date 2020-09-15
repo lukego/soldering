@@ -9,6 +9,7 @@ will learn to design PCBs, then I will learn to program FPGAs.
 - [Why](why.md) I am learning to solder and how I am approaching the whole topic.
 - [People](people.md) I am learning from, mosly on YouTube.
 - [Techniques](techniques.md) that I am learning, like drag soldering and BGA reballing.
+- [Problems and their solutions](problem-solution.md) recommendations based on what works for me.
 - Equipment that I am using:
   - [Big equipment](big-equipment.md) like soldering irons and microscopes.
   - [Small equipment](small-equipment.md) like tips and tweezers.
