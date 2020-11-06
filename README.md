@@ -2,7 +2,7 @@
 
 My name is Luke and I am learning to make electronics. These are my notes as I go along.
 
-In 2020 I have learned how to solder. Specifically I have learned how to solder well enough to assemble a [Glasgow Hardware Debugger](https://github.com/GlasgowEmbedded/glasgow) by hand one component at a time. This means that I'm now confident about soldering 0402 passives, 0.8mm BGAs, QFNs with ground pads, and so on. (I have also soldered 0201s and 01005s as a confidence-building exercise.)
+In 2020 I have learned how to solder. Specifically I have learned how to solder well enough to assemble a [Glasgow Hardware Debugger](https://github.com/GlasgowEmbedded/glasgow#revc) by hand one component at a time. This means that I'm now confident about soldering 0402 passives, 0.8mm BGAs, QFNs with ground pads, and so on. (I have also soldered 0201s and 01005s as a confidence-building exercise.)
     
 I have a [twitter thread of assembing my first Glasgow PCB](https://twitter.com/lukego/status/1310531162021023746) with a series of video clips. I'm posting other [mostly soldering-related
 images and videos](https://twitter.com/lukego/media) on twitter too.
