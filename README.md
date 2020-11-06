@@ -11,15 +11,16 @@ The core tools that I use for most of my soldering are:
 
 - [JBC NASE
 2C](https://eleshop.eu/jbc-nase-nano-soldeer-desoldeerstation.html)
-nano soldering station. This is my favourite piece of equipment. My favourite tips are the 1mm spoon and 0.1mm conical.
+nano soldering station with iron and hot tweezers. This is my favourite piece of equipment. My favourite tips are the 1mm spoon and 0.1mm conical.
 - [Quick 861DW](https://eleshop.eu/quick-861dw-hot-air-station.html) hot air station for rework and for soldering BGAs.
 - [Hakko FR-830](https://www.batterfly.com/shop/en/hakko-fr830) air preheater. This provides the extra heat that I need to work comfortably with lead-free solder and also makes tacky flux flow beautifully.
 - [Stickvise](https://www.digikey.se/product-detail/sv/adafruit-industries-llc/3197/1528-1747-ND/6198266) to hold the PCB and [Hakko Omnivse](https://www.batterfly.com/shop/en/hakko-c1390c) to raise it above the preheater. 
 - [Eakins trinocular microscope](https://www.aliexpress.com/item/4001038582272.html) with 0.7x barlow lens and [RaspberryPi HQ camera](https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/?resellerType=home). This is a generic AmScope clone and the RPi HQ sits on the standard 1/2 reducer lens.
-- [Quick 6101A](https://eleshop.eu/quick-6101a1.html) fume extractor to suck in flux vapor and [Levoit LV-H133](https://www.levoit.com/allproducts/lv-h133-hepa-air-purifier-for-large-room) air purifier to catch excess. I take flux fumes seriously after listening to [Louis Rossmann on fume extraction](https://www.youtube.com/watch?v=KAaM0z9JjYc&ab_channel=LouisRossmann).
+- [Microscope ring light with polarizer](https://www.aliexpress.com/item/4000613976304.html) and [gooseneck lights](https://www.aliexpress.com/item/32773575692.html) for video illumination. (Result of [long and expensive process](https://www.eevblog.com/forum/reviews/glare-problem-with-144-led-right-light-for-microscope/?all) of trial and error).
+- [Quick 6101A](https://eleshop.eu/quick-6101a1.html) fume extractor to suck in flux vapor and [Levoit LV-H133](https://www.levoit.com/allproducts/lv-h133-hepa-air-purifier-for-large-room) air purifier to catch excess.
 - [Amtech VS-213-A-TF](https://www.amazon.com/AMTECH-VS-213-Universal-No-clean-Dispencing/dp/B0844VMQYB) or [NC-559-V2](https://www.tme.eu/en/details/anc559v2_10/fluxes/amtech/nc-559-v2/) tacky RMA flux. This makes solder behave properly: if I ran out of tacky flux I would stop soldering until I got more.
-- [SAC305 lead-free solder wire](https://www.digikey.se/product-detail/en/chip-quik-inc/RASWLF.015-1OZ/RASWLF.0151OZ-ND/9682011) with RA flux core and 0.015" (0.38mm) diameter from a name brand like ChipQuick, Multicore, or Kester. (I don't miss leaded solder since I started using a preheater.)
-- Misc: Sharp straight tweezers (cheap is fine e.g. BST-19), narrow desoldering braid (matched to soldering tip size), manual dispenser for flux syringe (ergonomic luxury.)
+- [SAC305 lead-free solder wire](https://www.digikey.se/product-detail/en/chip-quik-inc/RASWLF.015-1OZ/RASWLF.0151OZ-ND/9682011) with RA flux core and 0.015" (0.38mm) diameter. (I don't miss leaded solder since I started using a preheater.)
+- Misc: Sharp straight tweezers (cheap is fine e.g. BST-19), narrow desoldering braid (matched to soldering tip size), manual dispenser for flux syringe (ergonomic luxury), ESD rubber mat.
 
 I have several other soldering irons that I use in parallel with the JBC NASE. The NASE doesn't have enough oomph for some work and then I use a larger iron (or hot air tool.) I have other JBC, Metcal, Hakko, and Ersa irons all running in parallel with different tips but this is absurdly excessive ("fear of missing out" on a better tool.) The micro/precision handpieces are *almost* as good as the NASE.
 
